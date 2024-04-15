@@ -167,6 +167,7 @@ Better: prepare a file for a package manager:
 
 Install with:
 ```r
+#| eval: false
 install.packages("renv")
 ```
 Activate with:
