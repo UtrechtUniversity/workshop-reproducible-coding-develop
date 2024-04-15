@@ -210,6 +210,7 @@ renv::restore()
 + Be sure again to update your git repository:
    
    ```bash
+   #| eval: false
    git add [your changed files]
    git commit -m "the change you made"
    git push
