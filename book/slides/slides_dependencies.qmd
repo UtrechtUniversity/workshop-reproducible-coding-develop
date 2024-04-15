@@ -182,6 +182,7 @@ renv::snapshot()
 ```
 Load the contents of a lockfile with:
 ```r
+#| eval: false
 renv::restore()
 ```
 [Read more here.](https://blog.rstudio.com/2019/11/06/renv-project-environments-for-r/)
