@@ -1,5 +1,7 @@
 --- 
 format: 
+execute:
+  echo: true
   revealjs:
     margin: 0
     theme: ../styles/uu.scss
