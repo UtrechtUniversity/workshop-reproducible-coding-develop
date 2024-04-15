@@ -172,6 +172,7 @@ install.packages("renv")
 ```
 Activate with:
 ```r
+#| eval: false
 renv::init()
 ```
 Update with:
