@@ -177,6 +177,7 @@ renv::init()
 ```
 Update with:
 ```r
+#| eval: false
 renv::snapshot()
 ```
 Load the contents of a lockfile with:
