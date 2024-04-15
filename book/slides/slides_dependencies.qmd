@@ -44,6 +44,7 @@ For example: this code written in Python 2.7:
 :::
 
 ```python
+#| eval: false
 print "Hello world!"
 ```
 ::: {style="text-align: left; margin-top: 1em"}
